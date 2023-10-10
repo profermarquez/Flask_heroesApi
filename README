@@ -4,6 +4,6 @@ ubicarte en el raiz del proyecto...
 pip install flask_ngrok
 pip install Flask-Cors
 pip install pyngrok
-ngrok authtoken "1btxUj6HlIrbf4YCUPoEmE5Nydk_v3gUKYsjhwyYj1iTLLXv"
+ngrok authtoken "su authtoken"
 copiar el ngrok.yml al raiz
 ejecutar main.py
